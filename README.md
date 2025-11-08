@@ -52,12 +52,3 @@ Collection of ideas, feature requests, and enhancements for Homebox.
 
 [View Repository →](https://github.com/danielrosehill/Homebox-Ideas)
 
----
-
-## About
-
-This index tracks all Homebox-related projects created by Daniel Rosehill. Homebox is a home inventory and organization management system.
-
-## License
-
-Each project has its own license. Please refer to individual repositories for licensing information.
